@@ -41,6 +41,8 @@ Wiping a Hard Drive | redd.it/5rwlyi
 
 
 **Lastly, here's some basic pre-vis I'm allowed to show from my last job.**
+
+
 The shell and sticker were designed be me, and are currently in production.
 <img src="https://i.imgur.com/iVbmIlw.png">
 <img src="https://i.imgur.com/WHmdNND.png">
