@@ -9,9 +9,12 @@ ___
 **On the internet, I am known mostly for this garbage.**
 
 Thermal Paste Tutorial | redd.it/5qqksq
+
 <img src="https://i.imgur.com/udcnqMJ.gif"/>
 
+
 Wiping a Hard Drive | redd.it/5rwlyi
+
 <img src="https://i.imgur.com/XVQ2sIX.gif"/>
 ___
 
