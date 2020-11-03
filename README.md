@@ -4,6 +4,8 @@
 
 <sub><sup>*And must find work before I become destitute.*</sup></sub>
 
+___
+
 
 **On the internet, I am known mostly for this garbage.**
 
@@ -45,5 +47,9 @@ The shell and sticker were designed be me, and are currently in production.
 
 
 **And a 3D printable STL do you can see what I do best.**
-https://drive.google.com/file/d/1YYe3pd9T7xGEAwxxRyAtmVwq06m_UBnC/view?usp=sharing
+ 
+ 
+ [Google Drive](https://drive.google.com/file/d/1YYe3pd9T7xGEAwxxRyAtmVwq06m_UBnC/view?usp=sharing)
+
+
 <img src="https://i.imgur.com/kD6D2sZ.png">
