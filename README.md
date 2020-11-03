@@ -6,33 +6,37 @@
 ___
 
 
-###**On the internet, I am known mostly for this garbage.**
+**On the internet, I am known mostly for this garbage.**
 
 Thermal Paste Tutorial | redd.it/5qqksq
-<img src="https://i.imgur.com/udcnqMJ.gif" width="450"/>
+<img src="https://i.imgur.com/udcnqMJ.gif"/>
 
 Wiping a Hard Drive | redd.it/5rwlyi
-<img src="https://i.imgur.com/XVQ2sIX.gif" width="450"/>
+<img src="https://i.imgur.com/XVQ2sIX.gif"/>
 ___
 
-###**But have improved significantly over time.**
+
+**But have improved significantly over time.**
 <img src="https://i.imgur.com/qCaqUeQ.png">
 <img src="https://i.imgur.com/TZDZCnZ.png">
 ___
 
-###**Getting deeper into organic modeling.**
+
+**Getting deeper into organic modeling.**
 <img src="https://i.imgur.com/8LZ8nV0.png">
 <img src="https://i.imgur.com/kZ7kXmK.png">
 ___
 
-###**Delving into stylized rendering and NPR.**
+
+**Delving into stylized rendering and NPR.**
 <img src="https://i.imgur.com/b0jyvjJ.png">
 
 *And eventually succeeding at it.*
 <img src="https://i.imgur.com/vfNhutL.png">
 ___
 
-###**Lastly, here's some basic pre-vis I'm allowed to show from my last job.**
+
+**Lastly, here's some basic pre-vis I'm allowed to show from my last job.**
 The shell and sticker were designed be me, and are currently in production.
 <img src="https://i.imgur.com/iVbmIlw.png">
 <img src="https://i.imgur.com/WHmdNND.png">
