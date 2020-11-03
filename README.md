@@ -48,7 +48,7 @@ The shell and sticker were designed be me, and are currently in production.
 <img src="https://i.imgur.com/WHmdNND.png">
 
 
-**And a 3D printable STL do you can see what I do best.**
+**And a 3D printable STL so you can see what I do best.**
  
  
  [Google Drive](https://drive.google.com/file/d/1YYe3pd9T7xGEAwxxRyAtmVwq06m_UBnC/view?usp=sharing)
