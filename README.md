@@ -47,7 +47,7 @@ Wiping a Hard Drive | redd.it/5rwlyi
 **And a 3D printable STL.**
  
  
- [Google Drive](https://drive.google.com/file/d/1YYe3pd9T7xGEAwxxRyAtmVwq06m_UBnC/view?usp=sharing)
+ [Download Here.](https://github.com/Nautalis/Tux3D/blob/main/Tux_Penguin.stl)
 
 
-<img src="https://i.imgur.com/kD6D2sZ.png">
+<img src="images/Picture.png">
