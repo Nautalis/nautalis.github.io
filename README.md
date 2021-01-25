@@ -1,8 +1,4 @@
-## **Welcome to Xander's awesome portfolio.**
-
-##### It is hastily thrown together because I just arrived in Phoenix.
-
-<sub><sup>*And must find work before I become destitute.*</sup></sub>
+## **Welcome to Xander's neato portfolio.**
 
 ___
 
@@ -40,7 +36,7 @@ Wiping a Hard Drive | redd.it/5rwlyi
 
 
 
-**Lastly, here's some basic pre-vis I'm allowed to show from my last job.**
+**Lastly, here's some product design.**
 
 
 The shell and sticker were designed be me, and are currently in production.
@@ -48,7 +44,7 @@ The shell and sticker were designed be me, and are currently in production.
 <img src="https://i.imgur.com/WHmdNND.png">
 
 
-**And a 3D printable STL so you can see what I do best.**
+**And a 3D printable STL.**
  
  
  [Google Drive](https://drive.google.com/file/d/1YYe3pd9T7xGEAwxxRyAtmVwq06m_UBnC/view?usp=sharing)
