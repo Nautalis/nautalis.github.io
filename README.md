@@ -39,9 +39,9 @@ Wiping a Hard Drive | redd.it/5rwlyi
 **Lastly, here's some product design.**
 
 
-The shell and sticker were designed be me, and are currently in production.
-<img src="https://i.imgur.com/iVbmIlw.png">
+<img src="images/Jung_Poster.png">
 <img src="https://i.imgur.com/WHmdNND.png">
+<img src="images/after1.png">
 
 
 **And a 3D printable STL.**
