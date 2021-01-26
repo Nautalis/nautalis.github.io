@@ -3,7 +3,7 @@
 ___
 
 
-**On the internet, I am known mostly for this garbage.**
+**On the internet, I am known mostly for stuff like this.**
 
 Thermal Paste Tutorial | redd.it/5qqksq
 
@@ -51,5 +51,3 @@ Wiping a Hard Drive | redd.it/5rwlyi
 
 
 <img src="images/Picture.png">
-
-https://www.twine.net/nautalis
